@@ -13,7 +13,7 @@
 - 황수경 [sukyeongh](https://github.com/sukyeongh)
 
 ## Technologies
-- Node.js
+- React Native
 - React - version 16.12.0
 - Redux
 - Babel
